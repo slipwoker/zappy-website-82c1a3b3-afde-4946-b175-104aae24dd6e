@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-82c1a3b3.zappy5.app
+https://example.com
 חנות יודאיקה יוקרתית המציעה תהילים, סידורים וברכונים בעיצוב אלגנטי. חוויית קנייה מקוונת יוקרתית, משלוח עד הבית ותשלום מאובטח. הצטרף למעגל הקדושה עוד היום.
 
 ### אודות
-https://-82c1a3b3.zappy5.app/about
+https://example.com/about
 שִׁיר לַבּוֹרֵא נולדה מאהבה לקדושה וליופי. אנו אוצרים תהילים, סידורים ופריטי יודאיקה ברמת גימור מושלמת, כדי להכניס רוגע והדר לכל בית יהודי. בואו להכיר את הסיפור.
 
 ### הכוונת מתנות
-https://-82c1a3b3.zappy5.app/gift-guidance
+https://example.com/gift-guidance
 מתלבטים איזה תהילים או סידור להעניק? שירות הכוונת המתנות האישי שלנו יעזור לכם לבחור פריט יודאיקה מושלם, עטוף בזהב ובכוונה טהורה. התחילו עכשיו את חוויית ההתאמה.
 
 ### גלריה
-https://-82c1a3b3.zappy5.app/gallery
+https://example.com/gallery
 הציצו לגלריה המרהיבה שלנו: תהילים, סידורים וברכונים בגווני שמנת, לבן וזהב. כל פריט משדר יוקרה ורוחניות. בקרו עכשיו והתאהבו בכל פינה.
 
 ### צור קשר
-https://-82c1a3b3.zappy5.app/contact
+https://example.com/contact
 יש שאלה על תהילים, סידור או ברכון? צרו קשר עם צוות שִׁיר לַבּוֹרֵא. אנו זמינים לייעוץ אישי, הזמנות מיוחדות וכל בקשה. שלחו הודעה עוד היום ונגע ביחד בנשמה.
 
 ### Products
-https://-82c1a3b3.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - שִׁיר לַבּוֹרֵא
 
 ### Cart
-https://-82c1a3b3.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-82c1a3b3.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-82c1a3b3.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-82c1a3b3.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-82c1a3b3.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-82c1a3b3.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - שִׁיר לַבּוֹרֵא
 
 ### Category
-https://-82c1a3b3.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - שִׁיר לַבּוֹרֵא
 
 ### תודה שפניתם אלינו
-https://-82c1a3b3.zappy5.app/thank-you
+https://example.com/thank-you
 שִׁיר לַבּוֹרֵא - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-82c1a3b3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-82c1a3b3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-82c1a3b3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Judaica & Religious Products E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-82c1a3b3.zappy5.app/sitemap.xml
-- Robots: https://-82c1a3b3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-82c1a3b3.zappy5.app/llms-full.txt
-- Products (JSON): https://-82c1a3b3.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-82c1a3b3.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
